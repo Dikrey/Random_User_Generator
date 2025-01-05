@@ -5,6 +5,8 @@
 
 Proyek ini untuk menarik detail pengguna acak, seperti nama, email, nomor telepon, lokasi, dan jenis kelamin. Dengan tampilan yang modern dan responsif, **Random User Generator** dirancang untuk memberikan pengalaman pengguna yang menyenangkan dan intuitif.
 
+Url Website: https://tinyurl.com/5yjaxuzf
+
 ### Fitur Utama:
 - **Generate Random User**: Klik tombol untuk menghasilkan profil pengguna acak dalam hitungan detik.
 - **Responsif & Modern**: Desain yang ramping dan intuitif yang dapat digunakan di berbagai perangkat.
